@@ -39,4 +39,4 @@ https://user-images.githubusercontent.com/64675840/234852752-02a87c6d-e64d-4a97-
 - Similarly, typing * as the first string in a line and pressing space should correspond to “bold” format
 - ** and space = red line
 - *** and space = underline
-
+- Pressing Save button will persist everything typed in the editor into localstorage. On refreshing the page,  the saved info will be refilled into the editor.
